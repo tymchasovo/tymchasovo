@@ -14,4 +14,4 @@
 ## Контакты
 - Email: irinaskchva2@gmail.com
 - LinkedIn: [Irina Savina](https://www.linkedin.com/in/irina-savina-8b9194274/)
-- Telegram: @tymchasovo
+- Telegram: [@tymchasovo](t.me/tymchasovo)
