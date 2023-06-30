@@ -9,7 +9,7 @@
 - [Чек-листы]()
 - [Тест-сьюты и тест-кейсы](https://docs.google.com/spreadsheets/d/1zFamaY0L3r8Oy3490b_3f9gkdro0LwSX5NrV2exUfP4/edit?usp=sharing)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1XbMre4kIcCb5TAsSZlc6iz51mWW-e1cM3hd2zoOvRuo/edit?usp=sharing)
-- [Отчет о тестировании Fitness Online](https://docs.google.com/document/d/1-SBHHuK0amZEdxBri5Msv8BNgOmUnARasftfx2E2nV8/edit?usp=share_link)
+- [Отчет о тестировании Fitness Online](https://drive.google.com/file/d/1EmBI5UqbVD5EobGEENWVN2khK_coBk69/view?usp=share_link)
 
 ## Контакты
 - Email: irinaskchva2@gmail.com
