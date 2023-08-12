@@ -4,7 +4,7 @@
 Привет! Я Junior QA Engineer с полугодовым коммерческим опытом работы. Тестировала мобильное приложение Fitness Online и веб-платформу в пиар-агентстве E-PR.Online. Применяла техники тест-дизайна для разработки чек-листов, тест-кейсов и тест-сьютов. Оба продукта тестировала методом черного ящика. Прошла годовое обучение в Be-Tester School, где освоила функциональное
 и нефункциональное тестирование. Изучаю Phyton для развития навыков.
 
-[Ссылка на резюме](https://drive.google.com/file/d/1JCdNhzGXWYmCE4plW8GB9Uigzpl1ZghQ/view?usp=sharing)
+[Ссылка на резюме](https://drive.google.com/file/d/18v12hDG_HSMHpulwH_djQxGXhySh6PHD/view?usp=sharing)
 
 ## Тестовая документация
 Мобильное приложение Fitness Online:
