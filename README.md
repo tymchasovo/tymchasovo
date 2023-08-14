@@ -13,7 +13,10 @@
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1XbMre4kIcCb5TAsSZlc6iz51mWW-e1cM3hd2zoOvRuo/edit?usp=sharing)
 - [Отчет о тестировании](https://drive.google.com/file/d/1EmBI5UqbVD5EobGEENWVN2khK_coBk69/view?usp=share_link)
 
-Веб-сайт Quizlet (Самостоятельное тестирование):
+Веб-сайт Quizlet -- исследовательское тестирование:
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1loh3knXl8o3-TOWc4n6_IHcxtd33YRWo95Wfi1F-KqY/edit?usp=sharing)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1r80cxkXY4YZnupkRzkqKfHPUFGi7U9nY_sLWRP7wzoM/edit?usp=sharing)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1fTj7tBi808M4YEbRCBcMqDQ6875A39UjhE4nApF2VR4/edit?usp=sharing)
 
 
 ## Контакты
