@@ -9,11 +9,13 @@
 ## Кейсы
 ### :small_orange_diamond: <ins>Мобильное приложение [Fitness Online](https://fitnessonline.app.link/DbvsHlcZ4W):</ins>
 
-Моя роль на проекте заключалась в тестировании данного приложения. В процессе моей работы я установила и проверила приложение на платформе Apple, выявив и задокументировав 38 ошибок. Дополнительно, я разработала чек-листы и тест-кейсы для систематической проверки функциональности.
+Моя роль на проекте заключалась в тестировании данного приложения. В процессе работы я установила и проверила приложение на платформе Apple, выявив и задокументировав 38 ошибок. Дополнительно разработала чек-листы и тест-кейсы для систематической проверки функциональности.
 
 Одним из важных результатов моей работы является промежуточный отчет о тестировании, где я предоставила статистику ошибок, а также выделила области приложения, где ошибки были наиболее часто обнаруживаемыми.
 
-- [Чек-листы]()
+- [Чек-лист: регистрация](https://docs.google.com/spreadsheets/d/1ASDr_nrWYY-plTjCgibJNM9F8oAQKjYSr8z8GxJD4GM/edit?usp=sharing)
+- [Чек-лист: функциональность](https://docs.google.com/spreadsheets/d/1eZStvKuyVECo_B9tj6ZPZF0MUf7LJ_yFhrr09i0nD8s/edit?usp=sharing)
+- [Чек-лист: локализация](https://docs.google.com/spreadsheets/d/1Ndvw6CMfrO88uoIBFJsI5QGuUp6-SYUdog-_62QhFSQ/edit?usp=sharing)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1zFamaY0L3r8Oy3490b_3f9gkdro0LwSX5NrV2exUfP4/edit?usp=sharing)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1XbMre4kIcCb5TAsSZlc6iz51mWW-e1cM3hd2zoOvRuo/edit?usp=sharing)
 - [Отчет о тестировании](https://drive.google.com/file/d/1EmBI5UqbVD5EobGEENWVN2khK_coBk69/view?usp=share_link)
