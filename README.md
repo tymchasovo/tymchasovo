@@ -6,12 +6,15 @@
 
 [Ссылка на резюме](https://drive.google.com/file/d/18v12hDG_HSMHpulwH_djQxGXhySh6PHD/view?usp=sharing)
 
-## Тестовая документация
+## Кейсы
 Мобильное приложение Fitness Online:
 - [Чек-листы]()
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1zFamaY0L3r8Oy3490b_3f9gkdro0LwSX5NrV2exUfP4/edit?usp=sharing)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1XbMre4kIcCb5TAsSZlc6iz51mWW-e1cM3hd2zoOvRuo/edit?usp=sharing)
 - [Отчет о тестировании](https://drive.google.com/file/d/1EmBI5UqbVD5EobGEENWVN2khK_coBk69/view?usp=share_link)
+
+Веб-сайт Quizlet (Самостоятельное тестирование):
+
 
 ## Контакты
 - Email: irinaskchva2@gmail.com
