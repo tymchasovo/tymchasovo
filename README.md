@@ -17,7 +17,7 @@
 - [Чек-лист: локализация](https://docs.google.com/spreadsheets/d/1Ndvw6CMfrO88uoIBFJsI5QGuUp6-SYUdog-_62QhFSQ/edit?usp=sharing)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1zFamaY0L3r8Oy3490b_3f9gkdro0LwSX5NrV2exUfP4/edit?usp=sharing)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1XbMre4kIcCb5TAsSZlc6iz51mWW-e1cM3hd2zoOvRuo/edit?usp=sharing)
-- [Отчет о тестировании](https://drive.google.com/file/d/1EmBI5UqbVD5EobGEENWVN2khK_coBk69/view?usp=share_link)
+- [Отчет о тестировании](https://drive.google.com/file/d/1cyKMtDnhNbVyVStNq_KCLq_kA3LnSLCB/view?usp=sharing)
 
 ### :small_orange_diamond: <ins>Исследовательское тестирование веб-сайта [Quizlet](https://quizlet.com):</ins>
 
