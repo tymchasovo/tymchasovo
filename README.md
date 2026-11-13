@@ -26,7 +26,7 @@
 **Senior QA Engineer**<br>
 октябрь 2026 — настоящее время
 
-### ◇ TIMELESS / COSMOS
+### 🟠 TIMELESS / COSMOS
 
 **Middle QA Engineer**<br>
 сентябрь 2024 — сентябрь 2026
@@ -44,7 +44,7 @@
 
 </details>
 
-### ◇ Gontard&Cie / MORE SOLUTIONS
+### 🔵 Gontard&Cie / MORE SOLUTIONS
 
 **Junior QA Engineer**<br>
 январь 2023 — сентябрь 2024
