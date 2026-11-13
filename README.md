@@ -2,14 +2,14 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/terminal/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/header-dark.svg">
-  <img src="assets/terminal/header-light.svg" alt="Ира Савина — QA Engineer. Web / Mobile / API. Сейчас в Сбере. Since 2026." width="100%">
+  <img src="assets/terminal/header-light.svg" alt="Ира Савина — QA Engineer. Web / Mobile / API. сейчас в Сбере. since 2026." width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/intro-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/terminal/intro-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/intro-dark.svg">
-  <img src="assets/terminal/intro-light.svg" alt="whoami. 3,5+ года тестирую B2B веб- и мобильные продукты. разбираюсь в требованиях, нахожу риски в интеграциях и проверяю данные и бизнес-логику. Manual Testing · Integration Testing · Usability Testing" width="100%">
+  <img src="assets/terminal/intro-light.svg" alt="whoami. 3,5+ года тестирую B2B веб- и мобильные продукты. разбираюсь в требованиях, нахожу риски в интеграциях и проверяю данные и бизнес-логику. ручное тестирование · интеграции + удобство использования · скиллы для работы QA." width="100%">
 </picture>
 
 <picture>
@@ -30,11 +30,11 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/timeless-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/terminal/timeless-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/timeless-dark.svg">
-  <img src="assets/terminal/timeless-light.svg" alt="TIMELESS / COSMOS · Middle QA Engineer · сентябрь 2024 — сентябрь 2026. Ресторанный B2B: веб + мобайл + микросервисы. 6 крупных функциональных модулей; 15+ UX/UI-инициатив; рост с Junior+ до Middle." width="100%">
+  <img src="assets/terminal/timeless-light.svg" alt="TIMELESS / COSMOS · Middle QA Engineer · сентябрь 2024 — сентябрь 2026. ресторанный B2B: веб + мобайл + микросервисы. 6 крупных функциональных модулей; 15+ UX/UI-инициатив; рост с Junior+ до Middle." width="100%">
 </picture>
 
 <details>
-<summary>Показать задачи</summary>
+<summary>показать задачи</summary>
 
 тестировала множественные интеграции с внешними сервисами, локализовывала дефекты и участвовала в приемке функционала. проводила ревью и демо, участвовала в технических собесах и улучшала QA-процессы
 
@@ -44,13 +44,13 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/gontard-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/terminal/gontard-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/gontard-dark.svg">
-  <img src="assets/terminal/gontard-light.svg" alt="Gontard&amp;Cie / MORE SOLUTIONS · Junior QA Engineer · Январь 2023 — сентябрь 2024. Медицинский B2B. API-тестирование для регресса и покрытие около 50% функциональности." width="100%">
+  <img src="assets/terminal/gontard-light.svg" alt="Gontard&amp;Cie / MORE SOLUTIONS · Junior QA Engineer · январь 2023 — сентябрь 2024. медицинский B2B. api-тестирование для регресса и покрытие около 50% функциональности." width="100%">
 </picture>
 
 <details>
-<summary>Показать задачи</summary>
+<summary>показать задачи</summary>
 
-анализировала требования и макеты, готовила тестовую документацию, проводила демо заказчикам и писала юзер гайды для конечных пользователей 
+анализировала требования и макеты, готовила тестовую документацию, проводила демо заказчикам и писала юзер гайды для конечных пользователей
 
 </details>
 
