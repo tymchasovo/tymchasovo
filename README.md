@@ -1,29 +1,37 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" alt="Ира Савина — QA Engineer. Сейчас в Сбере. Since 2026." width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/header-dark.svg">
+  <img src="assets/terminal/header-light.svg" alt="Ира Савина — QA Engineer. Web / Mobile / API. Сейчас в Сбере. Since 2026." width="100%">
 </picture>
 
-# ❯ whoami
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/intro-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/intro-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/intro-dark.svg">
+  <img src="assets/terminal/intro-light.svg" alt="whoami. 3,5+ года тестирую B2B веб- и мобильные продукты. Разбираюсь в требованиях, нахожу риски в интеграциях и проверяю данные и бизнес-логику. Москва · English B2 · QA + AI." width="100%">
+</picture>
 
-3,5+ года тестирую B2B веб- и мобильные продукты. Разбираюсь в требованиях, нахожу риски в интеграциях и проверяю, что данные и бизнес-логика работают согласованно.
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/experience-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/experience-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/experience-dark.svg">
+  <img src="assets/terminal/experience-light.svg" alt="cat experience.md — опыт работы" width="100%">
+</picture>
 
-**Москва** · **English B2** · **QA + AI**
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/sber-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/sber-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/sber-dark.svg">
+  <img src="assets/terminal/sber-light.svg" alt="Сбер · Старший инженер по разработке · 20 октября 2026 — настоящее время" width="100%">
+</picture>
 
-## ❯ cat experience.md
-
-### Сбер
-
-**Старший инженер по разработке**<br>20 октября 2026 — настоящее время
-
-### TIMELESS / COSMOS
-
-**Middle QA Engineer**<br>Начало работы — сентябрь 2024
-
-Ресторанный B2B: веб + мобайл + микросервисы.
-
-- 6 крупных функциональных модулей
-- 15+ UX/UI-инициатив
-- Рост с Junior+ до Middle
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/timeless-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/timeless-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/timeless-dark.svg">
+  <img src="assets/terminal/timeless-light.svg" alt="TIMELESS / COSMOS · Middle QA Engineer · Начало работы — сентябрь 2024. Ресторанный B2B: веб + мобайл + микросервисы. 6 крупных функциональных модулей; 15+ UX/UI-инициатив; рост с Junior+ до Middle." width="100%">
+</picture>
 
 <details>
 <summary>Показать задачи</summary>
@@ -32,11 +40,12 @@
 
 </details>
 
-### Gontard&Cie / MORE SOLUTIONS
-
-**Junior QA Engineer**<br>Январь 2023 — сентябрь 2024
-
-Медицинский B2B. API-тестирование для регресса и покрытие около 50% функциональности.
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/gontard-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/gontard-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/gontard-dark.svg">
+  <img src="assets/terminal/gontard-light.svg" alt="Gontard&amp;Cie / MORE SOLUTIONS · Junior QA Engineer · Январь 2023 — сентябрь 2024. Медицинский B2B. API-тестирование для регресса и покрытие около 50% функциональности." width="100%">
+</picture>
 
 <details>
 <summary>Показать задачи</summary>
@@ -45,19 +54,19 @@
 
 </details>
 
-## ❯ ls toolbox/
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/toolbox-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/toolbox-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/toolbox-dark.svg">
+  <img src="assets/terminal/toolbox-light.svg" alt="ls toolbox/. api/: Postman, Swagger, REST, WebSocket, Kafka. data/: SQL, PostgreSQL, DBeaver. debug/: Grafana, DevTools, Charles Proxy. mobile/: Android, iOS, TestFlight, Xcode, BrowserStack. ai/: ChatGPT, DeepSeek, Codex, Claude." width="100%">
+</picture>
 
-| | |
-| :--- | :--- |
-| `api/` | Postman · Swagger · REST · WebSocket · Kafka |
-| `data/` | SQL · PostgreSQL · DBeaver |
-| `debug/` | Grafana · DevTools · Charles Proxy |
-| `mobile/` | Android · iOS · TestFlight · Xcode · BrowserStack |
-| `ai/` | ChatGPT · DeepSeek · Codex · Claude |
-
-## ❯ open portfolio/
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/portfolio-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/terminal/portfolio-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/portfolio-dark.svg">
+  <img src="assets/terminal/portfolio-light.svg" alt="open portfolio/" width="100%">
+</picture>
 
 **Связаться со мной**
 
