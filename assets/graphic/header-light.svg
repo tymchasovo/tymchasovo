@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
-<title id="title">Ира Савина · QA Engineer</title>
-<desc id="desc">Web, Mobile, API. Качество начинается с правильных вопросов.</desc>
-<rect width="1200" height="310" rx="16" fill="#f4f3ee"/>
-<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
-<text x="48" y="44" fill="#287b58" font-size="18" letter-spacing="2">WEB / MOBILE / API</text>
-<text x="48" y="114" fill="#172e27" font-size="62" font-weight="600">Ира Савина</text>
-<text x="48" y="184" fill="#172e27" font-size="62" font-weight="600">QA Engineer<tspan fill="#287b58">.</tspan></text>
-<text x="48" y="239" fill="#52665e" font-size="24">Качество начинается с правильных вопросов.</text>
-</g><rect x="942" y="66" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="982" y="66" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1022" y="66" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1062" y="66" width="29" height="29" rx="4" fill="#287b58"/><rect x="1102" y="66" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="942" y="106" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="982" y="106" width="29" height="29" rx="4" fill="#287b58"/><rect x="1022" y="106" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1062" y="106" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1102" y="106" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="942" y="146" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="982" y="146" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1022" y="146" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1062" y="146" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1102" y="146" width="29" height="29" rx="4" fill="#287b58"/><rect x="942" y="186" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="982" y="186" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1022" y="186" width="29" height="29" rx="4" fill="#287b58"/><rect x="1062" y="186" width="29" height="29" rx="4" fill="#e3e9df"/><rect x="1102" y="186" width="29" height="29" rx="4" fill="#e3e9df"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="405" viewBox="0 0 1000 405" role="img" aria-labelledby="title desc">
+<title id="title">Senior QA Engineer</title>
+<desc id="desc">Вижу связи. Нахожу риски. Требования → Интеграции → Продукт.</desc>
+<rect width="1000" height="405" rx="14" fill="#f1eef8"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif"><text x="40" y="53" fill="#6a4eaf" font-size="16" font-weight="600" letter-spacing="2">SENIOR QA ENGINEER</text>
+<text x="40" y="155" fill="#24272e" font-size="66" font-weight="600" letter-spacing="-2">Вижу связи.</text>
+<text x="40" y="230" fill="#6a4eaf" font-size="66" font-weight="600" letter-spacing="-2">Нахожу риски.</text>
+<rect x="40" y="300" width="280" height="65" rx="9" fill="#ffffff"/>
+<text x="180.0" y="341" fill="#24272e" font-size="21" font-weight="400" text-anchor="middle">Требования</text>
+<text x="340" y="342" fill="#616974" font-size="24" font-weight="400" text-anchor="middle">→</text>
+<rect x="360" y="300" width="280" height="65" rx="9" fill="#ffffff"/>
+<text x="500.0" y="341" fill="#24272e" font-size="21" font-weight="400" text-anchor="middle">Интеграции</text>
+<text x="660" y="342" fill="#616974" font-size="24" font-weight="400" text-anchor="middle">→</text>
+<rect x="680" y="300" width="280" height="65" rx="9" fill="#ffffff"/>
+<text x="820.0" y="341" fill="#24272e" font-size="21" font-weight="400" text-anchor="middle">Продукт</text>
+</g>
 </svg>

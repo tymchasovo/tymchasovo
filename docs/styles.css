@@ -1,0 +1,98 @@
+#ira-combined-draft { --ip-bg:light-dark(#fff,#0d1117);--ip-text:light-dark(#24272e,#e6edf3);--ip-muted:light-dark(#616974,#a4adba);--ip-line:light-dark(#dce0e6,#30363d);--ip-accent:light-dark(#6a4eaf,#bea8ed);--ip-accent-text:light-dark(#fff,#21172f);--ip-hero:light-dark(#f1eef8,#201b2d);--ip-tile:light-dark(#fff,#30283e);--ip-link:light-dark(#0969da,#79b8ff); color:var(--ip-text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+#ira-combined-draft * { box-sizing:border-box;min-width:0; }
+#ira-combined-draft [hidden] { display:none!important; }
+#ira-combined-draft .ip-page { background:var(--ip-bg);border:1px solid var(--ip-line);border-radius:10px;padding:26px;--ip-gap:32px; }
+#ira-combined-draft .ip-hero { background:var(--ip-hero);padding:28px;border-radius:8px; }
+#ira-combined-draft .ip-eyebrow { font-size:11px;letter-spacing:.14em;font-weight:600;color:var(--ip-accent);display:block;padding-right:75px; }
+#ira-combined-draft .ip-hero h1 { font-size:clamp(34px,5.4vw,46px);font-weight:600;letter-spacing:-1.8px;line-height:1.08;margin:26px 0 30px; }
+#ira-combined-draft .ip-hero h1>span { color:var(--ip-accent); }
+#ira-combined-draft .ip-flow { display:flex;align-items:center;gap:10px; }
+#ira-combined-draft .ip-flow>div { display:flex;align-items:center;justify-content:center;gap:9px;flex:1;background:var(--ip-tile);padding:16px 8px;border-radius:7px;font-size:12px; }
+#ira-combined-draft .ip-flow svg { width:17px;height:17px;flex-shrink:0;color:var(--ip-accent); }
+#ira-combined-draft .ip-arrow { color:var(--ip-muted); }
+#ira-combined-draft h2 { font-size:19px;line-height:1.3;font-weight:600;letter-spacing:-.4px;margin:0 0 16px; }
+#ira-combined-draft p { margin:0; }
+#ira-combined-draft .ip-intro { margin-top:28px; }
+#ira-combined-draft .ip-intro h2 { font-size:25px;letter-spacing:-.7px;margin-bottom:12px; }
+#ira-combined-draft .ip-intro p { font-size:14px;line-height:1.75;max-width:660px; }
+#ira-combined-draft .ip-highlights { margin-top:var(--ip-gap); }
+#ira-combined-draft .ip-section-heading { display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:17px; }
+#ira-combined-draft .ip-section-heading h2 { margin:0; }
+#ira-combined-draft .ip-section-heading>span { font-size:11px;color:var(--ip-muted); }
+#ira-combined-draft .ip-evidence { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;border-top:1px solid var(--ip-line);border-bottom:1px solid var(--ip-line);padding:21px 0; }
+#ira-combined-draft .ip-evidence strong { display:block;font-size:23px;line-height:1.25;letter-spacing:-.8px;font-weight:600;margin:0 0 14px; }
+#ira-combined-draft .ip-evidence>div:last-child strong { font-size:20px; }
+#ira-combined-draft .ip-evidence h3 { font-size:13px;font-weight:600;margin:0 0 8px; }
+#ira-combined-draft .ip-evidence p { font-size:12px;line-height:1.65;color:var(--ip-muted); }
+#ira-combined-draft .ip-evidence small { display:block;color:var(--ip-muted);font-size:11px;line-height:1.5;margin-top:12px; }
+#ira-combined-draft .ip-growth { display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);align-items:start;gap:22px;padding-top:17px; }
+#ira-combined-draft .ip-growth-label { font-size:13px;font-weight:500;line-height:1.6; }
+#ira-combined-draft .ip-growth p { font-size:12px;line-height:1.7;color:var(--ip-muted); }
+#ira-combined-draft .ip-focus { margin-top:var(--ip-gap);padding-top:var(--ip-gap);border-top:1px solid var(--ip-line); }
+#ira-combined-draft .ip-focus-layout { display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:22px; }
+#ira-combined-draft .ip-focus-picker { display:flex;flex-direction:column;gap:5px;align-self:start; }
+#ira-combined-draft .ip-focus-picker button { display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;min-height:44px;padding:11px 12px;background:transparent;border:0;border-radius:6px;color:var(--ip-muted);text-align:left;font:13px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+#ira-combined-draft .ip-focus-picker button[aria-pressed="true"] { background:var(--ip-accent);color:var(--ip-accent-text); }
+#ira-combined-draft .ip-focus-picker button:hover:not([aria-pressed="true"]) { background:var(--ip-hero);color:var(--ip-text); }
+#ira-combined-draft .ip-focus-content { background:var(--ip-hero);border-radius:8px;padding:24px;min-height:270px; }
+#ira-combined-draft .ip-focus-icon { color:var(--ip-accent);height:25px;margin-bottom:15px; }
+#ira-combined-draft .ip-focus-icon svg { width:24px;height:24px; }
+#ira-combined-draft .ip-focus-caption { font-size:10px;letter-spacing:.1em;color:var(--ip-muted); }
+#ira-combined-draft .ip-focus-content h3 { font-size:19px;line-height:1.25;letter-spacing:-.5px;font-weight:500;margin:10px 0; }
+#ira-combined-draft .ip-focus-content p { font-size:12px;line-height:1.75;color:var(--ip-muted); }
+#ira-combined-draft .ip-tags { display:flex;flex-wrap:wrap;gap:7px;margin-top:20px; }
+#ira-combined-draft .ip-tags span { background:var(--ip-tile);padding:5px 8px;border-radius:4px;font-size:11px; }
+#ira-combined-draft .ip-experience { margin-top:var(--ip-gap); }
+#ira-combined-draft .ip-experience>h2 { margin-bottom:18px; }
+#ira-combined-draft .ip-job { border-top:1px solid var(--ip-line);padding:19px 0; }
+#ira-combined-draft .ip-job summary,#ira-combined-draft .ip-job-row { display:flex;align-items:start;justify-content:space-between;gap:18px;list-style:none; }
+#ira-combined-draft .ip-job summary::-webkit-details-marker { display:none; }
+#ira-combined-draft .ip-job-company { display:flex;flex-direction:column;gap:6px;flex:1; }
+#ira-combined-draft .ip-job-company h3,#ira-combined-draft .ip-job-company strong { font-size:13px;font-weight:500;line-height:1.5;margin:0; }
+#ira-combined-draft .ip-job-company>span { color:var(--ip-muted);font-size:12px;line-height:1.5; }
+#ira-combined-draft .ip-job-date { color:var(--ip-muted);font-size:11px;line-height:1.7;text-align:right;max-width:190px; }
+#ira-combined-draft .ip-expand { color:var(--ip-muted);width:10px;flex-shrink:0;line-height:1.5; }
+#ira-combined-draft .ip-expand::before { content:"+"; }
+#ira-combined-draft details[open] .ip-expand::before { content:"−"; }
+#ira-combined-draft .ip-current { color:var(--ip-accent);font-size:10px;font-weight:400;letter-spacing:.02em;margin-left:8px; }
+#ira-combined-draft .ip-job-current .ip-job-date { margin-right:28px; }
+#ira-combined-draft .ip-job-content { font-size:12px;line-height:1.8;color:var(--ip-muted);padding-top:18px; }
+#ira-combined-draft .ip-domain { color:var(--ip-text); }
+#ira-combined-draft .ip-job-content ul { margin:12px 0 0;padding-left:19px; }
+#ira-combined-draft .ip-job-content li+li { margin-top:5px; }
+#ira-combined-draft .ip-job-note { margin-top:12px;color:var(--ip-text); }
+#ira-combined-draft .ip-footer { display:flex;flex-wrap:wrap;gap:18px;border-top:1px solid var(--ip-line);padding-top:20px;margin-top:8px; }
+#ira-combined-draft .ip-footer a { color:var(--ip-link);font-size:13px;text-underline-offset:3px; }
+@media(max-width:560px) {
+  #ira-combined-draft .ip-page { padding:18px;--ip-gap:27px; }
+  #ira-combined-draft .ip-hero { padding:23px 18px; }
+  #ira-combined-draft .ip-hero h1 { font-size:36px;letter-spacing:-1.5px; }
+  #ira-combined-draft .ip-eyebrow { font-size:10px;padding-right:35px;line-height:1.7; }
+  #ira-combined-draft .ip-flow { flex-direction:column;gap:5px;align-items:stretch; }
+  #ira-combined-draft .ip-flow>div { padding:10px; }
+  #ira-combined-draft .ip-arrow { transform:rotate(90deg);align-self:center; }
+  #ira-combined-draft .ip-evidence { grid-template-columns:1fr;gap:20px; }
+  #ira-combined-draft .ip-evidence>div+div { border-top:1px solid var(--ip-line);padding-top:20px; }
+  #ira-combined-draft .ip-evidence strong { margin-bottom:9px; }
+  #ira-combined-draft .ip-evidence small { margin-top:7px; }
+  #ira-combined-draft .ip-growth { grid-template-columns:1fr;gap:8px; }
+  #ira-combined-draft .ip-focus-layout { grid-template-columns:1fr;gap:15px; }
+  #ira-combined-draft .ip-focus-picker { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px; }
+  #ira-combined-draft .ip-focus-picker button { font-size:12px;padding:10px;min-height:48px; }
+  #ira-combined-draft .ip-focus-picker button[data-focus="data"] { font-size:11px; }
+  #ira-combined-draft .ip-focus-content { min-height:270px;padding:22px; }
+  #ira-combined-draft .ip-job summary,#ira-combined-draft .ip-job-row { display:grid;grid-template-columns:minmax(0,1fr) 10px;gap:8px 12px; }
+  #ira-combined-draft .ip-job-date { grid-row:2;grid-column:1;max-width:none;text-align:left; }
+  #ira-combined-draft .ip-expand { grid-column:2;grid-row:1; }
+  #ira-combined-draft .ip-job-company strong { font-size:12px; }
+  #ira-combined-draft .ip-intro p { font-size:13px; }
+}
+
+:root { color-scheme:light dark; }
+body { margin:0;padding:40px 20px;background:light-dark(#f6f7f9,#090d12); }
+main { max-width:840px;margin:0 auto; }
+button,summary { cursor:pointer; }
+button:focus-visible,summary:focus-visible,a:focus-visible { outline:3px solid light-dark(#6a4eaf,#bea8ed);outline-offset:4px; }
+.skip-link { position:absolute;left:20px;top:-80px;padding:12px;background:light-dark(#fff,#0d1117);color:light-dark(#0969da,#79b8ff);z-index:2; }
+.skip-link:focus { top:8px; }
+@media(max-width:560px) { body { padding:16px 8px; } }
