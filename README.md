@@ -9,7 +9,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/intro-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/terminal/intro-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/intro-dark.svg">
-  <img src="assets/terminal/intro-light.svg" alt="whoami. 3,5+ года тестирую B2B веб- и мобильные продукты. Разбираюсь в требованиях, нахожу риски в интеграциях и проверяю данные и бизнес-логику. Москва · English B2 · QA + AI." width="100%">
+  <img src="assets/terminal/intro-light.svg" alt="whoami. 3,5+ года тестирую B2B веб- и мобильные продукты. разбираюсь в требованиях, нахожу риски в интеграциях и проверяю данные и бизнес-логику. Manual Testing · Integration Testing · Usability Testing" width="100%">
 </picture>
 
 <picture>
@@ -23,14 +23,14 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/sber-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/terminal/sber-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/sber-dark.svg">
-  <img src="assets/terminal/sber-light.svg" alt="Сбер · Старший инженер по разработке · 20 октября 2026 — настоящее время" width="100%">
+  <img src="assets/terminal/sber-light.svg" alt="Сбер · старший инженер по разработке · октябрь 2026 — настоящее время" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/terminal/timeless-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/terminal/timeless-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal/timeless-dark.svg">
-  <img src="assets/terminal/timeless-light.svg" alt="TIMELESS / COSMOS · Middle QA Engineer · Начало работы — сентябрь 2024. Ресторанный B2B: веб + мобайл + микросервисы. 6 крупных функциональных модулей; 15+ UX/UI-инициатив; рост с Junior+ до Middle." width="100%">
+  <img src="assets/terminal/timeless-light.svg" alt="TIMELESS / COSMOS · Middle QA Engineer · сентябрь 2024 — сентябрь 2026. Ресторанный B2B: веб + мобайл + микросервисы. 6 крупных функциональных модулей; 15+ UX/UI-инициатив; рост с Junior+ до Middle." width="100%">
 </picture>
 
 <details>
